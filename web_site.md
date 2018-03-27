@@ -24,7 +24,7 @@ PR TIMES
 https://prtimes.jp/  
 
 TechCrunch Japan
-https://jp.techcrunch.com/　　
+https://jp.techcrunch.com/
 
 TECH PLAY
 https://techplay.jp/
